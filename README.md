@@ -11,30 +11,25 @@ You should have received a copy of the GNU General Public License along with thi
 
 The zip archives on the Releases page were created using the TerraGear and TerraGear-GUI programs developed by the FlightGear project. The git repository includes the source data. To download the resulting scenery, go to the Releases page and download the zip archives.
 
-## Chicago and Bloomington Areas Custom Scenery
+## Nova Scotia, Prince Edward Island and New Brunswick Custom Scenery
 
-Custom scenery for the Champaign (KCMI) and Bloomington (KBMI) areas, for the FlightGear Flight Simulator. This scenery includes:
-- The airports recommended as of October 2020 from the X-Plane Scenery Gateway
+Custom scenery for all of Nova Scotia and Prince Edward Island, Canada, and most of New Brunswick, Canada for the FlightGear Flight Simulator. This scenery includes:
+- The airports recommended as of December 2020 from the X-Plane Scenery Gateway
 - The area between the following coordinates: 
   - min lat
   - max lat 42.5
   - min lon -
   - max lon - 
-- Optional USGS orthophotos around major airports within the included area.
 - Updated NavData for some of the airports. It should be downloaded and installed with this custom scenery. The updated airports uses this updated data.
-
-### NOTE: 
-This scenery is best when used together with "Chicago and Milwaukee" and "Oshkosh and UP" custom scenery. Use of these three custom sceneries together (KORD-KMKE-Custom-Scenery, Champaign-Custom-Scenery and NWI-UPM-Custom-Scenery) will minimize issues at the scenery borders. They also provide a signicant North-South flight area with decent scenery.
 
 ### Data Sources
 
 - Airports: X-Plane Scenery Gateway: https://gateway.x-plane.com/
 - Landcover: 2010 Land Cover of Canada https://open.canada.ca/data/en/dataset/c688b87f-e85f-4842-b0e1-a8f79ebf1133
 - Elevation: Shuttle Radar Topology Mission 3-arc-second (SRTM-3), void-filled version: https://earthexplorer.usgs.gov/
-- Rivers and waterbodies: National Hydrography Dataset (NHD): https://www.usgs.gov/core-science-systems/ngp/national-hydrography
+- Rivers and waterbodies: Lakes, Rivers and Glaciers in Canada - CanVec Series - Hydrographic Features: https://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b
 - Buildings, roads, pylons, other objects: OpenStreetMap using osm2city: https://www.openstreetmap.org/ https://osm2city.readthedocs.io/en/latest/
 - FlightGear TerraSync objects
-- Orthophotos: USGS Orthophotos: https://earthexplorer.usgs.gov/
 
 ### To Download
 
