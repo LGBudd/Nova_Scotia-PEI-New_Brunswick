@@ -39,7 +39,7 @@ To download the custom scenery files, go to the Releases page and download the z
 
 To install:
 1) Create a directory on your local hard drive
-2) Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, Terrain.zip, and Orthophotos,zip 
+2) Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, and Terrain.zip 
 3) Extract the files into the local directory you've created. 
 
 For example, create a directory called "KORD-KMKE" on your computer. Extract the downloaded files into this directory. 
