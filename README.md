@@ -52,4 +52,4 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
  7) Make the selections you want to use for your next flight then click "Fly", as usual.
  8) Rendering Options enable OSM buildings, detailed roads and pylons under 
 
-[Link](url) and ![Image](src)
+![North of Sydney, Cape Breton Island, Nova Scotia, Canada](https://github.com/LGBudd/Nova_Scotia-PEI-New_Brunswick/blob/main/Screenshots/North_of_Sydney_NS.png)
