@@ -56,3 +56,6 @@ For example, create a directory called "KORD-KMKE" on your computer. Extract the
 
 ### North of Sydney, Cape Breton Island, Nova Scotia, Canada
 ![North of Sydney, Cape Breton Island, Nova Scotia, Canada](https://github.com/LGBudd/Nova_Scotia-PEI-New_Brunswick/blob/main/Screenshots/North_of_Sydney_NS.png)
+
+### Cape North, Cape Breton Island, Nova Scotia, Canada
+![Cape North, Cape Breton Island, Nova Scotia, Canada](
