@@ -19,6 +19,7 @@ Custom scenery for all of Nova Scotia and Prince Edward Island, Canada, and most
   - max lat 43.0
   - min lon -67.0
   - max lon -59.0 
+- Custom Material definitions and Textures for the area to make the land cover more realistic.
 - Updated NavData for some of the airports. It should be downloaded and installed with this custom scenery. The updated airports uses this updated data.
 
 ### Data Sources
