@@ -33,7 +33,7 @@ Custom scenery for all of Nova Scotia and Prince Edward Island, Canada, and most
 
 ### To Download
 
-To download the custom scenery files, go to the Releases page and download the zip archives.
+To download the custom scenery files, go to [to be determined] page and download the zip archives.
 
 ## Installation
 
