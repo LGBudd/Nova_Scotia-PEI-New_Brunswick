@@ -42,7 +42,7 @@ To install:
 2) Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, and Terrain.zip 
 3) Extract the files into the local directory you've created. 
 
-For example, create a directory called "KORD-KMKE" on your computer. Extract the downloaded files into this directory. 
+For example, create a directory called "NS-PEI-NB" on your computer. Extract the downloaded files into this directory. 
 
 4) Add this directory to Additional Scenery Folders in the FlightGear GUI (launcher) 
 5) To use the custom materials definitions and custom textures created:
