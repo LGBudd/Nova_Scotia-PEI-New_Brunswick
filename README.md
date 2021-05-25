@@ -1,5 +1,5 @@
 # Nova_Scotia-PEI-New_Brunswick
-FlightGear Canada Scenery for Nova Scotia, Prince Edward Island and New Brunswick Provinces, Canada
+FlightGear Canada Land Cover Scenery for Nova Scotia, Prince Edward Island and New Brunswick Provinces
 
 ## License
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
@@ -38,19 +38,19 @@ To download the custom scenery files, go to [to be determined] page and download
 ## Installation
 
 To install:
-1) Create a directory on your local hard drive
-2) Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, and Terrain.zip 
-3) Extract the files into the local directory you've created. 
+1.  Create a directory on your local hard drive
+1.  Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, and Terrain.zip 
+1.  Extract the files into the local directory you've created. 
 
-For example, create a directory called "NS-PEI-NB" on your computer. Extract the downloaded files into this directory. 
+    For example, create a directory called "NS-PEI-NB" on your computer. Extract the downloaded files into this directory. 
 
-4) Add this directory to Additional Scenery Folders in the FlightGear GUI (launcher) 
-5) To use the custom materials definitions and custom textures created:
-    a) Download Illinois-data.zip and extract it. Rename the folder to "data.zip".
-    b) Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear 2020.4 directory. This should result in Illinois.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "Illinois" in the "$FG_ROOT/Textures/Terrain/" directory.
- 6) Start FlightGear. While on the start-up screen click "Add-ons". Scroll to the "Additional scenery folders" section, the click the plus (+) sign on the right side of the screen. A dialog box will pop up. Browse to the folder you created in step 1. Highlight the folder, then click "Select Folder". Confirm that the folder was added to the bottom of "Additional scenery folders". You can now highlight and move the folder to a higher priority if necessary. 
- 7) Make the selections you want to use for your next flight then click "Fly", as usual.
- 8) Rendering Options enable OSM buildings, detailed roads and pylons under 
+1.  Add this directory to Additional Scenery Folders in the FlightGear GUI (launcher) 
+1.  To use the custom materials definitions and custom textures created:
+    1.  Download Illinois-data.zip and extract it. Rename the folder to "data.zip".
+    1.  Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear 2020.4 directory. This should result in Illinois.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "Illinois" in the "$FG_ROOT/Textures/Terrain/" directory.
+ 1.  Start FlightGear. While on the start-up screen click "Add-ons". Scroll to the "Additional scenery folders" section, the click the plus (+) sign on the right side of the screen. A dialog box will pop up. Browse to the folder you created in step 1. Highlight the folder, then click "Select Folder". Confirm that the folder was added to the bottom of "Additional scenery folders". You can now highlight and move the folder to a higher priority if necessary. 
+ 1.  Make the selections you want to use for your next flight then click "Fly", as usual.
+ 1.  Rendering Options enable OSM buildings, detailed roads and pylons under 
 
 ## Screenshots
 
