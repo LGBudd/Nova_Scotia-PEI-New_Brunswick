@@ -20,7 +20,7 @@ Custom scenery for all of Nova Scotia and Prince Edward Island, Canada, and most
   - min lon -67.0
   - max lon -59.0 
 - Custom Material definitions and Textures for the area to make the land cover more realistic.
-- Updated NavData for some of the airports. It should be downloaded and installed with this custom scenery. The updated airports uses this updated data.
+- Updated NavData for some of the airports. It should be downloaded and installed with this custom scenery. The updated airports use this updated data.
 
 ### Data Sources
 
@@ -39,15 +39,15 @@ To download the custom scenery files, go to [to be determined] page and download
 
 To install:
 1.  Create a directory on your local hard drive
-1.  Download Buildings.zip, Objects.zip, Pylons.zip, Roads.zip, and Terrain.zip 
+1.  Download Buildings.zip, Objects.zip, NavData.zip, Pylons.zip, Roads.zip, and Terrain.zip. 
 1.  Extract the files into the local directory you've created. 
 
     For example, create a directory called "NS-PEI-NB" on your computer. Extract the downloaded files into this directory. 
 
 1.  Add this directory to Additional Scenery Folders in the FlightGear GUI (launcher) 
 1.  To use the custom materials definitions and custom textures created:
-    1.  Download Illinois-data.zip and extract it. Rename the folder to "data.zip".
-    1.  Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear 2020.4 directory. This should result in Illinois.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "Illinois" in the "$FG_ROOT/Textures/Terrain/" directory.
+    1.  Download ns-pei-nb-data.zip and extract it. Rename the folder to "data.zip".
+    1.  Copy this "data" folder, open "$FG_ROOT" and paste. In Windows, this is the data folder within the FlightGear 2020.4 directory. This should result in novascotia-pei-newbrunswick.xml residing in the "$FG_ROOT/Materials/regions/" directory and a folder labeled "NS-PEI-NB" in the "$FG_ROOT/Textures/Terrain/" directory.
  1.  Start FlightGear. While on the start-up screen click "Add-ons". Scroll to the "Additional scenery folders" section, the click the plus (+) sign on the right side of the screen. A dialog box will pop up. Browse to the folder you created in step 1. Highlight the folder, then click "Select Folder". Confirm that the folder was added to the bottom of "Additional scenery folders". You can now highlight and move the folder to a higher priority if necessary. 
  1.  Make the selections you want to use for your next flight then click "Fly", as usual.
  1.  Rendering Options enable OSM buildings, detailed roads and pylons under 
