@@ -13,7 +13,7 @@ The zip archives on the Releases page were created using the TerraGear and Terra
 ## Nova Scotia, Prince Edward Island and New Brunswick Custom Scenery
 
 Custom scenery for all of Nova Scotia and Prince Edward Island, Canada, and most of New Brunswick, Canada for the FlightGear Flight Simulator. This scenery includes:
-- The airports recommended as of December 2020 from the X-Plane Scenery Gateway
+- The area airports recommended as of December 2020 from the X-Plane Scenery Gateway. This includes many airports and heliports that have not previously been included in FlightGear.
 - The area between the following coordinates: 
   - min lat 48.0
   - max lat 43.0
@@ -21,6 +21,7 @@ Custom scenery for all of Nova Scotia and Prince Edward Island, Canada, and most
   - max lon -59.0 
 - Custom Material definitions and Textures for the area to make the land cover more realistic.
 - Updated NavData for some of the airports. It should be downloaded and installed with this custom scenery. The updated airports use this updated data.
+- Custom OSM2City scenery objects that match the elevations of the new custom scenery.
 
 ### Data Sources
 
