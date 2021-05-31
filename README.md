@@ -21,6 +21,8 @@ Custom scenery for all of Nova Scotia and Prince Edward Island, Canada, and most
 - Updated NavData for some of the airports. It should be downloaded and installed with this custom scenery. The updated airports use this updated data.
 - Custom OSM2City scenery objects that match the elevations of the new custom scenery.
 
+The zip archives were created using the TerraGear and TerraGear-GUI programs developed by the FlightGear project. The file repository on Google Drive includes the source data.
+
 ### Data Sources
 
 - Airports: X-Plane Scenery Gateway: https://gateway.x-plane.com/
