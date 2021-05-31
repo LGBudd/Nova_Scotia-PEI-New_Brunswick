@@ -35,12 +35,15 @@ The zip archives were created using the TerraGear and TerraGear-GUI programs dev
 ### To Download
 
 To download the custom scenery files, go to [to be determined] page and download the zip archives.
+Note that the file KOSH-KATW-KGRB_and_UP_Mich_Source.zip is quite large in size but is NOT NEEDED for the scenery, only for further development, should that be desired. It is not needed unless you are a developer.
+
+The Nova_Scotia-PEI-New_Brunswick Custom Scenery files are available for download at the following link [TBD]. There you can download the following zip archives: Airports.zip, Buildings.zip, Details.zip, NavData.zip, Objects.zip, Pylons.zip, Roads.zip and Terrain.zip. You may also download custom materials definitions and textures in the file novascotia-pei-newbrunswick-data.zip, which should help make the scenery more realistic.
 
 ## Installation
 
 To install:
 1.  Create a directory on your local hard drive
-1.  Download Buildings.zip, Objects.zip, NavData.zip, Pylons.zip, Roads.zip, and Terrain.zip. 
+1.  Download Airports.zip, Buildings.zip, Objects.zip, NavData.zip, Pylons.zip, Roads.zip, and Terrain.zip. 
 1.  Extract the files into the local directory you've created. 
 
     For example, create a directory called "NS-PEI-NB" on your computer. Extract the downloaded files into this directory. 
